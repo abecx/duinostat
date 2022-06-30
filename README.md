@@ -1,0 +1,2 @@
+# duinostat
+arduino controlled thermostat
